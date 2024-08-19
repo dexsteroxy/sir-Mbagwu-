@@ -50,7 +50,7 @@ const App = () => {
           </div>
         </div>
 
-        <div className=" w-full h-0.5 bg-gray-400 mt-12"></div>
+        <div className=" w-full h-0.5 bg-gray-400 mt-12 mb-8"></div>
         <h1 className=" font-bold text-3xl text-gray-600">
           Medical Equipment/Supply
         </h1>
